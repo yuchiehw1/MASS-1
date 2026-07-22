@@ -52,3 +52,6 @@ features/
 
 # Local staging folder for Hugging Face model-card / checkpoint uploads
 /huggingface/
+mass_env/
+*.dylib
+.DS_Store
